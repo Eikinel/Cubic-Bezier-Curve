@@ -11,6 +11,7 @@ Also, the window listen to user's click and generate points, control points, anc
 # How can I reproduce the algorithm myself ?
 I used several sources to do it by my own.
 
+  - https://github.com/SFML/SFML/wiki/Source%3A-cubic-bezier-curve
   - http://www.malinc.se/m/MakingABezierSpline.php
   - https://medium.freecodecamp.org/nerding-out-with-bezier-curves-6e3c0bc48e2f
 
