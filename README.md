@@ -1,5 +1,5 @@
 # Cubic-Bezier-Curve
-Tool to create cubic Bezier curves based on your points positions.
+Tool to create cubic Bezier curves based on the user's points positions, in C++ using SFML2-5-1.
 
 # How to use it ?
 You'll need the SFML library. I personnally used the 2.5.1 version.
