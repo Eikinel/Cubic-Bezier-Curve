@@ -6,6 +6,8 @@ You'll need the SFML library. I personnally used the 2.5.1 version.
 Clone the repo and compile sources : a 1280*720 window appear with a circle, generated with the Bezier object.
 Also, the window listen to user's click and generate points, control points, anchor points and finally the Bezier curve by itself.
 
+![Screenshot](https://i.imgur.com/uVqBYSx.png)
+
 # How can I reproduce the algorithm myself ?
 I used several sources to do it by my own.
 
