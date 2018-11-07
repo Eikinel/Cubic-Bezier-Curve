@@ -5,8 +5,8 @@ Tool to create cubic Bezier curves based on the user's points positions, in C++ 
 You'll need the SFML library. I personnally used the 2.5.1 version.\
 Clone the repo and compile sources. If you cannot run the binary file, consider visit the Getting Started from [SFML website](https://www.sfml-dev.org/tutorials/2.5/)
 
-When it's done, run the bin file: 1280x720 window appear with a circle, generated with the Bezier object.
-The window listen to user's click aswell and generate points, control points, anchor points and finally the Bezier curve by itself.
+When it's done, run the bin file: a 1280x720 window appears with a circle, generated with the Bezier object.
+The window listens to user's clicks aswell and generate points, control points, anchor points and finally the Bezier curve by itself.
 
 ![Screenshot](https://i.imgur.com/uVqBYSx.png)
 
